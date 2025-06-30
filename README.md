@@ -1,5 +1,5 @@
 ## Hi, I'm Hang 👋
-🎓 Final-year Accounting student | Aspiring Data Analyst  
+🎓 Final-year Accounting student | Aspiring Data Analyst / Business Intelligence
 📊 Interested in turning data into actionable insights  
 🛠️ Tools: SQL, Power BI, Python
 <!--
