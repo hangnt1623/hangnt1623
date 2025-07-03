@@ -1,4 +1,4 @@
-## Nguyễn Thúy Hằng
+## 👩‍💻 Nguyễn Thúy Hằng
 🎓 Final-year Accounting student | Aspiring Data Analyst / Business Intelligence
 
 📊 Interested in turning data into actionable insights  
