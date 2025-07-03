@@ -6,6 +6,6 @@
 🛠️ Tools: SQL, Power BI, Python
 
 -----
-## About me
+## 👋 About me
 
 Transitioning into **Data Analytics** from a background in **Accounting**, I am building on my understanding of **business processes** and **financial data**. Passionate about **uncovering insights** from complex datasets, I am actively developing **analytical** and **technical skills** to support **data-driven decision-making** and **business growth**.
