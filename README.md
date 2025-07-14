@@ -1,5 +1,5 @@
 ## 👩‍💻 Hang Nguyen Thuy
-🎓 Final-year Accounting student | Aspiring Data Analyst / Business Intelligence
+🎓 Fresh Graduate in Accounting 
 
 📊 Interested in turning data into actionable insights  
 
